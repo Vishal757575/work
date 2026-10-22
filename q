@@ -1,0 +1,135 @@
+[33mcommit 56c27d215fab3098def77d4778b52a8f005a8bfe[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: vishal <vap757575@gmail.com>
+Date:   Wed Oct 14 07:11:29 2026 -0700
+
+    change by person1
+
+[33mcommit 8e6afcd480ab40bd4ba7eb494a013e2813b4cb36[m
+Author: vishal <vap757575@gmail.com>
+Date:   Wed Oct 14 05:07:56 2026 -0700
+
+    save changes
+
+[33mcommit 9ab1f73b720e9bfa49c05fe57a4ac664ed4a089d[m
+Author: vishal <vap757575@gmail.com>
+Date:   Wed Oct 14 00:56:27 2026 -0700
+
+    file mod3
+
+[33mcommit cb6f17d7b4d538c365d29fc4f6f837a506362af1[m
+Author: vishal <vap757575@gmail.com>
+Date:   Wed Oct 14 00:43:36 2026 -0700
+
+    file mod
+
+[33mcommit 2c0e8098a3f49e49f5eb61ca6039f10acb12d86c[m
+Author: vishal <vap757575@gmail.com>
+Date:   Tue Oct 13 13:33:28 2026 -0700
+
+    first one
+
+[33mcommit afbe18e6870313dc8d69d199048e41adb9ac4467[m
+Merge: 5cd5186 0658cdf
+Author: Vishal757575 <vap757575@gmail.com>
+Date:   Thu Oct 15 16:02:56 2026 +0530
+
+    Merge pull request #3 from Vishal757575/fee1
+    
+    person 1Add 'bad morning' to vis
+
+[33mcommit 0658cdfa5cdcba86e4b544db0b8501a67cefe11b[m[33m ([m[1;31morigin/fee1[m[33m, [m[1;32mfee1[m[33m)[m
+Merge: dff5a58 5cd5186
+Author: Vishal757575 <vap757575@gmail.com>
+Date:   Thu Oct 15 16:02:19 2026 +0530
+
+    Merge branch 'main' into fee1
+
+[33mcommit dff5a585062b7a1d21e3441502cca956ee6d3851[m
+Author: Vishal757575 <vap757575@gmail.com>
+Date:   Thu Oct 15 15:54:54 2026 +0530
+
+    Add 'bad morning' to vis
+
+[33mcommit 5cd5186b94c4a4f031724d4e795b85c9e52721ac[m
+Author: Vishal757575 <vap757575@gmail.com>
+Date:   Thu Oct 15 15:53:24 2026 +0530
+
+    Add 'good morning' to vis
+
+[33mcommit 654f342e00c936bac73c8135494e05393a352be3[m
+Author: vishal <vap757575@gmail.com>
+Date:   Tue Oct 13 13:17:30 2026 +0530
+
+    new file new version
+
+[33mcommit 817ba26c279ca2b9185ea9644737a5ee289f27c9[m
+Author: Vishal757575 <vap757575@gmail.com>
+Date:   Tue Oct 13 12:51:05 2026 +0530
+
+    Create vis
+
+[33mcommit af732fe9fcedd275f825901b8523e8cda358aa24[m
+Author: Vishal757575 <vap757575@gmail.com>
+Date:   Tue Oct 13 12:38:01 2026 +0530
+
+    Fix formatting issues in README.md
+
+[33mcommit 2bea9c86fa9e4669a82b49bbc2fdea9d4a05f9e9[m
+Merge: 9de6634 9fb710f
+Author: Vishal757575 <vap757575@gmail.com>
+Date:   Tue Oct 13 12:32:02 2026 +0530
+
+    Merge pull request #1 from Vishal757575/Vishal757575-patch-1
+    
+    Fix formatting issues in README.md
+
+[33mcommit 9fb710f85ef284efcc5aa00ead6a203b09afa65a[m
+Author: Vishal757575 <vap757575@gmail.com>
+Date:   Tue Oct 13 12:30:50 2026 +0530
+
+    Fix formatting issues in README.md
+
+[33mcommit 9de6634a91d79363c01e5fa62293faffcde818eb[m
+Author: Vishal757575 <vap757575@gmail.com>
+Date:   Tue Oct 13 11:37:48 2026 +0530
+
+    Update README with additional line
+    
+    Added a new line to the README file for clarity.
+
+[33mcommit 152b9dede06c6563f0b258dee21e3b1acc2da3bf[m
+Author: vishal <vap757575@gmail.com>
+Date:   Tue Oct 13 11:33:41 2026 +0530
+
+    this is version v2
+
+[33mcommit 24b66e7013c36c159348c9542146b0734114eb0c[m
+Author: vishal <vap757575@gmail.com>
+Date:   Tue Oct 13 09:21:00 2026 +0530
+
+    first commit
+
+[33mcommit c057edce38f904e3d6e8810d82f003526a4b9874[m
+Merge: 3c49e9a 9039a93
+Author: vishal <vap757575@gmail.com>
+Date:   Tue Oct 13 09:05:52 2026 +0530
+
+    Merge branch 'main' of https://github.com/Vishal757575/work
+
+[33mcommit 3c49e9a0a1d29aa87ee508c0cb81053b777662a2[m
+Author: vishal <vap757575@gmail.com>
+Date:   Mon Oct 12 00:06:42 2026 +0530
+
+    Updated commit message
+
+[33mcommit 9039a93695edf849c24ed21d4ef167fec1bd34b3[m
+Author: vishal <vap757575@gmail.com>
+Date:   Mon Oct 12 00:06:42 2026 +0530
+
+    this is versaion v1
+
+[33mcommit 6a3110995261a24a0ecdb851f6898893e4eff58b[m
+Author: Vishal757575 <vap757575@gmail.com>
+Date:   Sun Oct 11 00:27:07 2026 +0530
+
+    Initial commit
