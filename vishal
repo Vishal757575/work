@@ -1,0 +1,10 @@
+XML
+<tomcat-users>
+  <!-- Define roles required for GUI access -->
+  <role rolename="manager-gui"/>
+  <role rolename="admin-gui"/>
+
+  <!-- Define the admin user and assign the roles -->
+  <user username="admin" password="your_secure_password" roles="manager-gui,admin-gui"/>
+</tomcat-users>
+
